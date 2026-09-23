@@ -1,0 +1,32 @@
+.topright{
+    position: fixed;
+    top: 0px;
+    right: 20px;
+    width: 200px;
+    }
+
+h1{
+    background-color: orange;
+    color: purple;
+}
+h2{
+    font-size: 50px;
+    color:rgb(255, 0, 0)
+}
+h3{
+    font-size: 40px;
+}
+body{
+    font-size: 30px;
+    background-color: pink
+}
+img {
+    fixed-position: middle;
+}
+p {
+    font-size: 30px;
+    color: rgb(59, 0, 59)
+}
+ul {
+    font-size: 20px
+}

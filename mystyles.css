@@ -1,10 +1,31 @@
 h1{
     color: blue;
-    background-color: hotpink;
+    background-color: orange;
+    font-size: 75px
 }
 .big{
-    font-size: 50px;
+    font-size: 30px;
 }
 .red{
     color: red
+}
+.topright{
+    position: fixed;
+    top: 0px;
+    right: 20px;
+    width: 150px;
+}
+
+p{
+    font-size: 20px
+}
+h2{
+    font-size: 50px
+}
+h3{
+    font-size: 40px
+}
+body{
+    font-size: 20px;
+    background-color:blanchedalmond;
 }

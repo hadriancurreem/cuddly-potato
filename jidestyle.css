@@ -1,0 +1,33 @@
+.topright{
+    position: fixed;
+    top: 0px;
+    right: 20px;
+    width: 200px;
+}
+
+.toprightunder{
+    position: fixed;
+    top: 50px;
+    right: 20px;
+    width: 150px;
+}
+h1{
+    font-size:large;
+    background-color: yellow;
+    color: purple;
+    font-size: 75px;
+}
+p{
+    font-size: 30px;
+}
+h2{
+    font-size: 50px;
+    text-align: middle;
+}
+h3{
+    font-size: 40px;
+}
+body{
+    font-size: 30px;
+    background-color:aquamarine
+}
